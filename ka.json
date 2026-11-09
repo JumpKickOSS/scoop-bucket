@@ -1,19 +1,19 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JumpKickOSS/ka/releases/download/v1.0.4/ka_windows_amd64.zip",
+            "url": "https://github.com/JumpKickOSS/ka/releases/download/v1.0.5/ka_windows_amd64.zip",
             "bin": [
                 "ka.exe"
             ],
-            "hash": "75ec0793b949922edfd9023ecdd652b09caf9fe9f662f6c728967407f582afe9"
+            "hash": "4ae3ed3364264be503f00edff5470d6d5a7ff0273bde2dd16f75962968edb6bb"
         },
         "arm64": {
-            "url": "https://github.com/JumpKickOSS/ka/releases/download/v1.0.4/ka_windows_arm64.zip",
+            "url": "https://github.com/JumpKickOSS/ka/releases/download/v1.0.5/ka_windows_arm64.zip",
             "bin": [
                 "ka.exe"
             ],
-            "hash": "a18874e35c8e54eb02809463a70e90079e672b32f728e5224347012bcdca561c"
+            "hash": "b9bd7747a3e06fe022b9145b47a9f371edf0a69a1cc38b8bbf23048cf723eb9e"
         }
     },
     "homepage": "https://github.com/JumpKickOSS/ka",
