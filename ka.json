@@ -1,19 +1,19 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/KanArtist/ka/releases/download/v1.1.0/ka_windows_amd64.zip",
+            "url": "https://github.com/KanArtist/ka/releases/download/v1.2.0/ka_windows_amd64.zip",
             "bin": [
                 "ka.exe"
             ],
-            "hash": "e617c0bfa7840ae296b9dd5cc257030ec5e4b09088b6012078e165c82de19626"
+            "hash": "b2b9256344ea6b716bed8d06b30a7e9c55ebddc7349ade37c9a9c54a70f3552e"
         },
         "arm64": {
-            "url": "https://github.com/KanArtist/ka/releases/download/v1.1.0/ka_windows_arm64.zip",
+            "url": "https://github.com/KanArtist/ka/releases/download/v1.2.0/ka_windows_arm64.zip",
             "bin": [
                 "ka.exe"
             ],
-            "hash": "4544cb15e2c9356cc685d78bd45cd86d23898223ada687f1465af0bbaa94de86"
+            "hash": "cdec004a3d4bb2e14315b350fe0c3279921dd3f3e5c18239c777a06856d93019"
         }
     },
     "homepage": "https://github.com/KanArtist/ka",
